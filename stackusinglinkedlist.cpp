@@ -31,7 +31,7 @@ public:
 		top = newNode; //4. Update the top pointer to the new node
 		cout << "Push value: " << value << endl;
 		return value;
-	}
+	}//
 
 	// Pop Operation: Remove the topmost element from the stack
 	void pop() {
